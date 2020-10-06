@@ -1,0 +1,636 @@
+1599472554602::Accelerometer - Username: TEST-1; X: -0.33769777; Y: 8.499925; Z: 5.0630717; Time: 1599472554597
+
+1599472554608::Accelerometer - Username: TEST-1; X: -0.84544194; Y: 8.176597; Z: 5.3384986; Time: 1599472554604
+
+1599472554613::Gyroscope - Username: TEST-1; X rotation: -0.25611988; Y rotation: 0.30307123; Z rotation: -0.037176505; Time: 1599472554610
+
+1599472554759::Accelerometer - Username: TEST-1; X: -1.0346485; Y: 7.91075; Z: 5.4342995; Time: 1599472554756
+
+1599472554764::Gyroscope - Username: TEST-1; X rotation: -0.46542922; Y rotation: 0.44939044; Z rotation: -0.13090569; Time: 1599472554761
+
+1599472554919::Accelerometer - Username: TEST-1; X: -1.7699195; Y: 7.3479204; Z: 6.1959157; Time: 1599472554915
+
+1599472554925::Gyroscope - Username: TEST-1; X rotation: -0.5032612; Y rotation: 0.4431535; Z rotation: -0.11920187; Time: 1599472554920
+
+1599472555079::Accelerometer - Username: TEST-1; X: -2.3686745; Y: 7.168294; Z: 6.8497562; Time: 1599472555074
+
+1599472555084::Gyroscope - Username: TEST-1; X rotation: -0.19539978; Y rotation: 0.4996125; Z rotation: 0.034728847; Time: 1599472555080
+
+1599472555237::Accelerometer - Username: TEST-1; X: -2.5363257; Y: 6.964717; Z: 6.5240335; Time: 1599472555233
+
+1599472555243::Gyroscope - Username: TEST-1; X rotation: -0.11071126; Y rotation: 0.34461653; Z rotation: -0.021197537; Time: 1599472555239
+
+1599472555398::Accelerometer - Username: TEST-1; X: -3.166216; Y: 6.7539554; Z: 6.696475; Time: 1599472555394
+
+1599472555405::Gyroscope - Username: TEST-1; X rotation: -0.070231214; Y rotation: 0.09907308; Z rotation: -0.092037626; Time: 1599472555398
+
+1599472555462::PIN ENTRY STARTED
+
+1599472555466::ButtonData - Username: TEST - 1; Button = 1
+
+1599472555553::Accelerometer - Username: TEST-1; X: -2.943479; Y: 6.8928666; Z: 6.605464; Time: 1599472555550
+
+1599472555557::Gyroscope - Username: TEST-1; X rotation: 0.02138153; Y rotation: -0.55393404; Z rotation: -0.102690265; Time: 1599472555554
+
+1599472555713::Accelerometer - Username: TEST-1; X: -2.3327491; Y: 6.6533647; Z: 6.9072366; Time: 1599472555710
+
+1599472555717::Gyroscope - Username: TEST-1; X rotation: -0.012706932; Y rotation: -0.31158635; Z rotation: -0.038241766; Time: 1599472555714
+
+1599472555871::Accelerometer - Username: TEST-1; X: -2.1483326; Y: 6.7683253; Z: 6.710845; Time: 1599472555868
+
+1599472555874::Gyroscope - Username: TEST-1; X rotation: -0.039871175; Y rotation: 0.06338673; Z rotation: -0.09043973; Time: 1599472555872
+
+1599472555984::ButtonData - Username: TEST - 1; Button = 2
+
+1599472556053::Accelerometer - Username: TEST-1; X: -2.304009; Y: 6.6365995; Z: 7.0054326; Time: 1599472556050
+
+1599472556055::Gyroscope - Username: TEST-1; X rotation: -0.09366703; Y rotation: -0.25619262; Z rotation: -0.076058656; Time: 1599472556053
+
+1599472556189::Accelerometer - Username: TEST-1; X: -1.9567311; Y: 6.607859; Z: 6.981482; Time: 1599472556186
+
+1599472556192::Gyroscope - Username: TEST-1; X rotation: 0.121516384; Y rotation: -0.31478214; Z rotation: -0.111745015; Time: 1599472556190
+
+1599472556348::Accelerometer - Username: TEST-1; X: -1.9040406; Y: 6.69408; Z: 6.9934573; Time: 1599472556345
+
+1599472556351::Gyroscope - Username: TEST-1; X rotation: 0.03522997; Y rotation: -0.13315457; Z rotation: -0.020132272; Time: 1599472556349
+
+1599472556435::ButtonData - Username: TEST - 1; Button = 3
+
+1599472556512::Accelerometer - Username: TEST-1; X: -1.8345851; Y: 6.6749196; Z: 7.070098; Time: 1599472556508
+
+1599472556515::Gyroscope - Username: TEST-1; X rotation: -0.053719614; Y rotation: 0.20133847; Z rotation: -0.03611124; Time: 1599472556513
+
+1599472556665::Accelerometer - Username: TEST-1; X: -2.299219; Y: 6.615044; Z: 6.7970657; Time: 1599472556662
+
+1599472556669::Gyroscope - Username: TEST-1; X rotation: -0.1277555; Y rotation: 0.6412927; Z rotation: 0.029402524; Time: 1599472556666
+
+1599472556824::Accelerometer - Username: TEST-1; X: -2.8692336; Y: 6.7898808; Z: 6.5000834; Time: 1599472556821
+
+1599472556831::Gyroscope - Username: TEST-1; X rotation: 0.04321945; Y rotation: 0.5102652; Z rotation: -0.058481794; Time: 1599472556826
+
+1599472556913::ButtonData - Username: TEST - 1; Button = 4
+
+1599472556983::Accelerometer - Username: TEST-1; X: -3.1278956; Y: 6.7371902; Z: 6.7539554; Time: 1599472556980
+
+1599472556985::Gyroscope - Username: TEST-1; X rotation: -0.23055351; Y rotation: -0.73130053; Z rotation: -0.17832404; Time: 1599472556983
+
+1599472557142::Accelerometer - Username: TEST-1; X: -1.7723145; Y: 5.973179; Z: 7.2736745; Time: 1599472557140
+
+1599472557146::Gyroscope - Username: TEST-1; X rotation: -0.30512205; Y rotation: -2.7963157; Z rotation: -0.84784275; Time: 1599472557143
+
+1599472557301::Accelerometer - Username: TEST-1; X: -0.3065625; Y: 5.616321; Z: 8.619676; Time: 1599472557298
+
+1599472557305::Gyroscope - Username: TEST-1; X rotation: -0.11390706; Y rotation: -0.042074453; Z rotation: -4.248795E-4; Time: 1599472557302
+
+1599472557463::Accelerometer - Username: TEST-1; X: 0.16286133; Y: 5.4031644; Z: 8.514295; Time: 1599472557457
+
+1599472557467::Gyroscope - Username: TEST-1; X rotation: 0.0357626; Y rotation: 0.027700368; Z rotation: -0.012142789; Time: 1599472557464
+
+1599472557618::Accelerometer - Username: TEST-1; X: -0.34488282; Y: 5.455855; Z: 8.145462; Time: 1599472557615
+
+1599472557625::Gyroscope - Username: TEST-1; X rotation: 0.14175642; Y rotation: 0.1704458; Z rotation: 0.021945674; Time: 1599472557621
+
+1599472557667::ButtonData - Username: TEST - 1; Button = E
+
+1599472557672::TouchData - Username: TEST-1; time_ms: 1599472555320; event: Down; X: 364.0; Y: 1098.0; Pressure: 0.6125; Area: 0.11764706; TouchID: 1
+
+1599472557675::TouchData - Username: TEST-1; time_ms: 1599472555356; event: Move; X: 364.0; Y: 1098.0; Pressure: 0.6875; Area: 0.11764706; TouchID: 1
+
+1599472557679::TouchData - Username: TEST-1; time_ms: 1599472555356; event: Move; X: 364.0; Y: 1098.0; Pressure: 0.71250004; Area: 0.11764706; TouchID: 1
+
+1599472557682::TouchData - Username: TEST-1; time_ms: 1599472555357; event: Move; X: 364.0; Y: 1098.0; Pressure: 0.71250004; Area: 0.11764706; TouchID: 1
+
+1599472557685::TouchData - Username: TEST-1; time_ms: 1599472555373; event: Move; X: 364.0; Y: 1098.0; Pressure: 0.75; Area: 0.11764706; TouchID: 1
+
+1599472557688::TouchData - Username: TEST-1; time_ms: 1599472555374; event: Move; X: 364.0; Y: 1098.0; Pressure: 0.77500004; Area: 0.11764706; TouchID: 1
+
+1599472557691::TouchData - Username: TEST-1; time_ms: 1599472555374; event: Move; X: 364.0; Y: 1098.0; Pressure: 0.77500004; Area: 0.11764706; TouchID: 1
+
+1599472557693::TouchData - Username: TEST-1; time_ms: 1599472555389; event: Move; X: 364.0; Y: 1098.0; Pressure: 0.8125; Area: 0.14705883; TouchID: 1
+
+1599472557696::TouchData - Username: TEST-1; time_ms: 1599472555390; event: Move; X: 364.0; Y: 1098.0; Pressure: 0.7375; Area: 0.14705883; TouchID: 1
+
+1599472557699::TouchData - Username: TEST-1; time_ms: 1599472555390; event: Move; X: 364.0; Y: 1098.0; Pressure: 0.7375; Area: 0.14705883; TouchID: 1
+
+1599472557702::TouchData - Username: TEST-1; time_ms: 1599472555407; event: Move; X: 364.0; Y: 1098.0; Pressure: 0.8625; Area: 0.14705883; TouchID: 1
+
+1599472557706::TouchData - Username: TEST-1; time_ms: 1599472555408; event: Move; X: 364.0; Y: 1097.0; Pressure: 0.7625; Area: 0.11764706; TouchID: 1
+
+1599472557708::TouchData - Username: TEST-1; time_ms: 1599472555408; event: Move; X: 364.0; Y: 1096.3672; Pressure: 0.7625; Area: 0.11764706; TouchID: 1
+
+1599472557711::TouchData - Username: TEST-1; time_ms: 1599472555423; event: Move; X: 364.0; Y: 1096.0; Pressure: 0.8875; Area: 0.16176471; TouchID: 1
+
+1599472557713::TouchData - Username: TEST-1; time_ms: 1599472555423; event: Move; X: 364.0; Y: 1095.0; Pressure: 0.875; Area: 0.14705883; TouchID: 1
+
+1599472557716::TouchData - Username: TEST-1; time_ms: 1599472555423; event: Move; X: 364.0; Y: 1094.4; Pressure: 0.875; Area: 0.14705883; TouchID: 1
+
+1599472557718::TouchData - Username: TEST-1; time_ms: 1599472555439; event: Move; X: 364.0; Y: 1094.0; Pressure: 0.83750004; Area: 0.14705883; TouchID: 1
+
+1599472557721::TouchData - Username: TEST-1; time_ms: 1599472555439; event: Move; X: 364.0; Y: 1093.0; Pressure: 0.7625; Area: 0.11764706; TouchID: 1
+
+1599472557724::TouchData - Username: TEST-1; time_ms: 1599472555439; event: Move; X: 364.0; Y: 1092.3136; Pressure: 0.7625; Area: 0.11764706; TouchID: 1
+
+1599472557726::TouchData - Username: TEST-1; time_ms: 1599472555445; event: Move; X: 364.0; Y: 1092.0; Pressure: 0.575; Area: 0.11764706; TouchID: 1
+
+1599472557728::TouchData - Username: TEST-1; time_ms: 1599472555446; event: Up; X: 364.0; Y: 1092.0; Pressure: 0.575; Area: 0.11764706; TouchID: 1
+
+1599472557731::TouchData - Username: TEST-1; time_ms: 1599472555864; event: Down; X: 725.0; Y: 1072.0; Pressure: 0.6; Area: 0.073529415; TouchID: 2
+
+1599472557734::TouchData - Username: TEST-1; time_ms: 1599472555889; event: Move; X: 725.0; Y: 1072.0; Pressure: 0.6375; Area: 0.073529415; TouchID: 2
+
+1599472557737::TouchData - Username: TEST-1; time_ms: 1599472555890; event: Move; X: 725.0; Y: 1072.0; Pressure: 0.6375; Area: 0.073529415; TouchID: 2
+
+1599472557739::TouchData - Username: TEST-1; time_ms: 1599472555906; event: Move; X: 725.0; Y: 1072.0; Pressure: 0.65000004; Area: 0.0882353; TouchID: 2
+
+1599472557742::TouchData - Username: TEST-1; time_ms: 1599472555906; event: Move; X: 725.0; Y: 1072.0; Pressure: 0.6625; Area: 0.11764706; TouchID: 2
+
+1599472557744::TouchData - Username: TEST-1; time_ms: 1599472555906; event: Move; X: 725.0; Y: 1072.0; Pressure: 0.6625; Area: 0.11764706; TouchID: 2
+
+1599472557747::TouchData - Username: TEST-1; time_ms: 1599472555923; event: Move; X: 725.0; Y: 1072.0; Pressure: 0.6875; Area: 0.11764706; TouchID: 2
+
+1599472557749::TouchData - Username: TEST-1; time_ms: 1599472555923; event: Move; X: 725.0; Y: 1072.0; Pressure: 0.6875; Area: 0.11764706; TouchID: 2
+
+1599472557753::TouchData - Username: TEST-1; time_ms: 1599472555956; event: Move; X: 725.0; Y: 1072.0; Pressure: 0.675; Area: 0.11764706; TouchID: 2
+
+1599472557756::TouchData - Username: TEST-1; time_ms: 1599472555973; event: Move; X: 725.0; Y: 1072.0; Pressure: 0.6625; Area: 0.11764706; TouchID: 2
+
+1599472557759::TouchData - Username: TEST-1; time_ms: 1599472555973; event: Move; X: 725.0; Y: 1072.0; Pressure: 0.475; Area: 0.11764706; TouchID: 2
+
+1599472557762::TouchData - Username: TEST-1; time_ms: 1599472555974; event: Up; X: 725.0; Y: 1072.0; Pressure: 0.475; Area: 0.11764706; TouchID: 2
+
+1599472557765::TouchData - Username: TEST-1; time_ms: 1599472556306; event: Down; X: 1192.0; Y: 1090.0; Pressure: 0.5625; Area: 0.11764706; TouchID: 3
+
+1599472557767::TouchData - Username: TEST-1; time_ms: 1599472556340; event: Move; X: 1192.0; Y: 1090.0; Pressure: 0.6; Area: 0.11764706; TouchID: 3
+
+1599472557769::TouchData - Username: TEST-1; time_ms: 1599472556340; event: Move; X: 1192.0; Y: 1090.0; Pressure: 0.6125; Area: 0.11764706; TouchID: 3
+
+1599472557772::TouchData - Username: TEST-1; time_ms: 1599472556340; event: Move; X: 1192.0; Y: 1090.0; Pressure: 0.6125; Area: 0.11764706; TouchID: 3
+
+1599472557774::TouchData - Username: TEST-1; time_ms: 1599472556356; event: Move; X: 1192.0; Y: 1090.0; Pressure: 0.6375; Area: 0.11764706; TouchID: 3
+
+1599472557776::TouchData - Username: TEST-1; time_ms: 1599472556356; event: Move; X: 1192.0; Y: 1090.0; Pressure: 0.65000004; Area: 0.11764706; TouchID: 3
+
+1599472557778::TouchData - Username: TEST-1; time_ms: 1599472556357; event: Move; X: 1192.0; Y: 1090.0; Pressure: 0.65000004; Area: 0.11764706; TouchID: 3
+
+1599472557780::TouchData - Username: TEST-1; time_ms: 1599472556373; event: Move; X: 1192.0; Y: 1090.0; Pressure: 0.6625; Area: 0.13235295; TouchID: 3
+
+1599472557782::TouchData - Username: TEST-1; time_ms: 1599472556373; event: Move; X: 1192.0; Y: 1090.0; Pressure: 0.675; Area: 0.13235295; TouchID: 3
+
+1599472557784::TouchData - Username: TEST-1; time_ms: 1599472556373; event: Move; X: 1192.0; Y: 1090.0; Pressure: 0.675; Area: 0.13235295; TouchID: 3
+
+1599472557786::TouchData - Username: TEST-1; time_ms: 1599472556390; event: Move; X: 1192.0; Y: 1090.0; Pressure: 0.6875; Area: 0.13235295; TouchID: 3
+
+1599472557788::TouchData - Username: TEST-1; time_ms: 1599472556390; event: Move; X: 1192.0; Y: 1090.0; Pressure: 0.6875; Area: 0.13235295; TouchID: 3
+
+1599472557790::TouchData - Username: TEST-1; time_ms: 1599472556406; event: Move; X: 1192.0; Y: 1090.0; Pressure: 0.6625; Area: 0.13235295; TouchID: 3
+
+1599472557792::TouchData - Username: TEST-1; time_ms: 1599472556423; event: Move; X: 1192.0; Y: 1090.0; Pressure: 0.65000004; Area: 0.11764706; TouchID: 3
+
+1599472557794::TouchData - Username: TEST-1; time_ms: 1599472556423; event: Move; X: 1192.0; Y: 1090.0; Pressure: 0.6125; Area: 0.11764706; TouchID: 3
+
+1599472557796::TouchData - Username: TEST-1; time_ms: 1599472556423; event: Move; X: 1192.0; Y: 1090.0; Pressure: 0.6125; Area: 0.11764706; TouchID: 3
+
+1599472557800::TouchData - Username: TEST-1; time_ms: 1599472556425; event: Up; X: 1192.0; Y: 1090.0; Pressure: 0.6125; Area: 0.11764706; TouchID: 3
+
+1599472557802::TouchData - Username: TEST-1; time_ms: 1599472556809; event: Down; X: 302.0; Y: 1346.0; Pressure: 0.58750004; Area: 0.11764706; TouchID: 4
+
+1599472557805::TouchData - Username: TEST-1; time_ms: 1599472556840; event: Move; X: 302.0; Y: 1346.0; Pressure: 0.675; Area: 0.11764706; TouchID: 4
+
+1599472557807::TouchData - Username: TEST-1; time_ms: 1599472556840; event: Move; X: 302.0; Y: 1346.0; Pressure: 0.725; Area: 0.11764706; TouchID: 4
+
+1599472557809::TouchData - Username: TEST-1; time_ms: 1599472556840; event: Move; X: 302.0; Y: 1346.0; Pressure: 0.725; Area: 0.11764706; TouchID: 4
+
+1599472557811::TouchData - Username: TEST-1; time_ms: 1599472556856; event: Move; X: 302.0; Y: 1346.0; Pressure: 0.75; Area: 0.11764706; TouchID: 4
+
+1599472557813::TouchData - Username: TEST-1; time_ms: 1599472556857; event: Move; X: 302.0; Y: 1346.0; Pressure: 0.7625; Area: 0.11764706; TouchID: 4
+
+1599472557815::TouchData - Username: TEST-1; time_ms: 1599472556857; event: Move; X: 302.0; Y: 1346.0; Pressure: 0.7625; Area: 0.11764706; TouchID: 4
+
+1599472557818::TouchData - Username: TEST-1; time_ms: 1599472556874; event: Move; X: 302.0; Y: 1346.0; Pressure: 0.77500004; Area: 0.11764706; TouchID: 4
+
+1599472557820::TouchData - Username: TEST-1; time_ms: 1599472556874; event: Move; X: 302.0; Y: 1346.0; Pressure: 0.77500004; Area: 0.11764706; TouchID: 4
+
+1599472557822::TouchData - Username: TEST-1; time_ms: 1599472556890; event: Move; X: 302.0; Y: 1346.0; Pressure: 0.7625; Area: 0.11764706; TouchID: 4
+
+1599472557824::TouchData - Username: TEST-1; time_ms: 1599472556890; event: Move; X: 302.0; Y: 1345.0; Pressure: 0.65000004; Area: 0.11764706; TouchID: 4
+
+1599472557826::TouchData - Username: TEST-1; time_ms: 1599472556890; event: Move; X: 302.0; Y: 1344.9547; Pressure: 0.65000004; Area: 0.11764706; TouchID: 4
+
+1599472557828::TouchData - Username: TEST-1; time_ms: 1599472556900; event: Move; X: 303.0; Y: 1343.0; Pressure: 0.3125; Area: 0.0882353; TouchID: 4
+
+1599472557830::TouchData - Username: TEST-1; time_ms: 1599472556901; event: Up; X: 303.0; Y: 1343.0; Pressure: 0.3125; Area: 0.0882353; TouchID: 4
+
+1599472557832::TouchData - Username: TEST-1; time_ms: 1599472557528; event: Down; X: 1087.0; Y: 1970.0; Pressure: 0.575; Area: 0.11764706; TouchID: 5
+
+1599472557834::TouchData - Username: TEST-1; time_ms: 1599472557557; event: Move; X: 1087.0; Y: 1970.0; Pressure: 0.6375; Area: 0.11764706; TouchID: 5
+
+1599472557836::TouchData - Username: TEST-1; time_ms: 1599472557557; event: Move; X: 1087.0; Y: 1970.0; Pressure: 0.6375; Area: 0.11764706; TouchID: 5
+
+1599472557838::TouchData - Username: TEST-1; time_ms: 1599472557574; event: Move; X: 1087.0; Y: 1970.0; Pressure: 0.6625; Area: 0.11764706; TouchID: 5
+
+1599472557839::TouchData - Username: TEST-1; time_ms: 1599472557574; event: Move; X: 1087.0; Y: 1970.0; Pressure: 0.675; Area: 0.11764706; TouchID: 5
+
+1599472557842::TouchData - Username: TEST-1; time_ms: 1599472557574; event: Move; X: 1087.0; Y: 1970.0; Pressure: 0.675; Area: 0.11764706; TouchID: 5
+
+1599472557845::TouchData - Username: TEST-1; time_ms: 1599472557590; event: Move; X: 1087.0; Y: 1970.0; Pressure: 0.6875; Area: 0.11764706; TouchID: 5
+
+1599472557848::TouchData - Username: TEST-1; time_ms: 1599472557590; event: Move; X: 1087.0; Y: 1970.0; Pressure: 0.6875; Area: 0.11764706; TouchID: 5
+
+1599472557850::TouchData - Username: TEST-1; time_ms: 1599472557629; event: Move; X: 1087.0; Y: 1970.0; Pressure: 0.6875; Area: 0.10294118; TouchID: 5
+
+1599472557852::TouchData - Username: TEST-1; time_ms: 1599472557629; event: Move; X: 1087.0; Y: 1970.0; Pressure: 0.6875; Area: 0.10294118; TouchID: 5
+
+1599472557855::TouchData - Username: TEST-1; time_ms: 1599472557640; event: Move; X: 1087.0; Y: 1970.0; Pressure: 0.675; Area: 0.10294118; TouchID: 5
+
+1599472557857::TouchData - Username: TEST-1; time_ms: 1599472557641; event: Move; X: 1087.0; Y: 1970.0; Pressure: 0.65000004; Area: 0.10294118; TouchID: 5
+
+1599472557859::TouchData - Username: TEST-1; time_ms: 1599472557641; event: Move; X: 1087.0; Y: 1970.0; Pressure: 0.65000004; Area: 0.10294118; TouchID: 5
+
+1599472557862::TouchData - Username: TEST-1; time_ms: 1599472557656; event: Move; X: 1087.0; Y: 1970.0; Pressure: 0.6125; Area: 0.13235295; TouchID: 5
+
+1599472557864::TouchData - Username: TEST-1; time_ms: 1599472557656; event: Move; X: 1087.0; Y: 1970.0; Pressure: 0.5625; Area: 0.13235295; TouchID: 5
+
+1599472557866::TouchData - Username: TEST-1; time_ms: 1599472557658; event: Up; X: 1087.0; Y: 1970.0; Pressure: 0.5625; Area: 0.13235295; TouchID: 5
+
+1599472558090::PIN ENTRY FINISHED
+
+1599472558146::Accelerometer - Username: TEST-2; X: -0.45505372; Y: 5.3935843; Z: 8.0999565; Time: 1599472558144
+
+1599472558149::Gyroscope - Username: TEST-2; X rotation: 0.02617522; Y rotation: 0.23010062; Z rotation: 0.024076203; Time: 1599472558147
+
+1599472558151::Accelerometer - Username: TEST-2; X: -0.6514453; Y: 5.4295096; Z: 7.8604546; Time: 1599472558149
+
+1599472558153::Gyroscope - Username: TEST-2; X rotation: -0.0798186; Y rotation: 0.043146703; Z rotation: -0.06540601; Time: 1599472558152
+
+1599472558156::Accelerometer - Username: TEST-2; X: -0.8167017; Y: 4.6128078; Z: 7.9826; Time: 1599472558154
+
+1599472558158::Gyroscope - Username: TEST-2; X rotation: -1.3171233; Y rotation: -0.2822916; Z rotation: -0.41108432; Time: 1599472558156
+
+1599472558254::Accelerometer - Username: TEST-2; X: -1.0226734; Y: 3.9398074; Z: 7.31439; Time: 1599472558251
+
+1599472558258::Gyroscope - Username: TEST-2; X rotation: -0.9421502; Y rotation: 0.3952166; Z rotation: -0.8824638; Time: 1599472558255
+
+1599472558413::Accelerometer - Username: TEST-2; X: 0.87418216; Y: -2.323169; Z: 12.9187355; Time: 1599472558410
+
+1599472558416::Gyroscope - Username: TEST-2; X rotation: -1.5264478; Y rotation: -0.85540384; Z rotation: -0.58632034; Time: 1599472558414
+
+1599472558572::Accelerometer - Username: TEST-2; X: -2.074087; Y: 0.44547364; Z: 10.102193; Time: 1599472558569
+
+1599472558575::Gyroscope - Username: TEST-2; X rotation: 3.0312865; Y rotation: 1.1009544; Z rotation: 0.72342235; Time: 1599472558573
+
+1599472558732::Accelerometer - Username: TEST-2; X: -1.2549903; Y: 3.2021413; Z: 9.592053; Time: 1599472558728
+
+1599472558736::Gyroscope - Username: TEST-2; X rotation: 1.4238021; Y rotation: -0.16244934; Z rotation: 0.4358009; Time: 1599472558733
+
+1599472558891::Accelerometer - Username: TEST-2; X: -2.083667; Y: 4.679868; Z: 7.556287; Time: 1599472558887
+
+1599472558895::Gyroscope - Username: TEST-2; X rotation: -0.65772456; Y rotation: 0.35260603; Z rotation: 0.39851665; Time: 1599472558892
+
+1599472559049::Accelerometer - Username: TEST-2; X: -1.5352076; Y: 3.391348; Z: 9.256751; Time: 1599472559046
+
+1599472559053::Gyroscope - Username: TEST-2; X rotation: -0.6902151; Y rotation: -0.3185106; Z rotation: 0.038989905; Time: 1599472559050
+
+1599472559216::Accelerometer - Username: TEST-2; X: -1.5423926; Y: 2.2225783; Z: 9.958491; Time: 1599472559206
+
+1599472559227::Gyroscope - Username: TEST-2; X rotation: -0.01696799; Y rotation: 0.404804; Z rotation: 0.11675421; Time: 1599472559219
+
+1599472559372::Accelerometer - Username: TEST-2; X: -1.223855; Y: 1.1711646; Z: 10.121353; Time: 1599472559365
+
+1599472559382::Gyroscope - Username: TEST-2; X rotation: -0.28008834; Y rotation: 0.36432394; Z rotation: -0.24490306; Time: 1599472559375
+
+1599472559537::Accelerometer - Username: TEST-2; X: -1.9327809; Y: 0.366438; Z: 9.924961; Time: 1599472559527
+
+1599472559548::Gyroscope - Username: TEST-2; X rotation: -0.1756924; Y rotation: -0.033552337; Z rotation: -0.054753367; Time: 1599472559539
+
+1599472559691::Accelerometer - Username: TEST-2; X: -1.6932789; Y: 0.6227051; Z: 9.5633135; Time: 1599472559682
+
+1599472559708::Gyroscope - Username: TEST-2; X rotation: -0.0073806094; Y rotation: 0.13103102; Z rotation: -0.05102494; Time: 1599472559693
+
+1599472559845::Accelerometer - Username: TEST-2; X: -2.1291726; Y: 0.62749517; Z: 9.354947; Time: 1599472559841
+
+1599472559849::Gyroscope - Username: TEST-2; X rotation: 0.09808057; Y rotation: 0.020243518; Z rotation: 0.0043688104; Time: 1599472559846
+
+1599472687139::Accelerometer - Username: TEST-1; X: -0.37362307; Y: 7.8436894; Z: 5.8989334; Time: 1599472687136
+
+1599472687143::Gyroscope - Username: TEST-1; X rotation: -0.34136117; Y rotation: 0.27919826; Z rotation: -0.16754; Time: 1599472687140
+
+1599472687286::Accelerometer - Username: TEST-1; X: -0.9915381; Y: 7.230564; Z: 6.734795; Time: 1599472687283
+
+1599472687290::Gyroscope - Username: TEST-1; X rotation: -0.12404721; Y rotation: 0.23339188; Z rotation: -0.082318835; Time: 1599472687287
+
+1599472687445::Accelerometer - Username: TEST-1; X: -1.1328443; Y: 7.5227566; Z: 6.5216384; Time: 1599472687442
+
+1599472687450::Gyroscope - Username: TEST-1; X rotation: 0.068765655; Y rotation: 0.14124651; Z rotation: -0.08764516; Time: 1599472687447
+
+1599472687603::Accelerometer - Username: TEST-1; X: -1.7890797; Y: 7.201824; Z: 5.7648125; Time: 1599472687600
+
+1599472687608::Gyroscope - Username: TEST-1; X rotation: -0.10114403; Y rotation: 0.4570974; Z rotation: -0.20855267; Time: 1599472687605
+
+1599472687763::Accelerometer - Username: TEST-1; X: -2.2824538; Y: 7.237749; Z: 6.9311867; Time: 1599472687759
+
+1599472687768::Gyroscope - Username: TEST-1; X rotation: -0.06119661; Y rotation: 0.32180884; Z rotation: -0.043436684; Time: 1599472687764
+
+1599472687881::PIN ENTRY STARTED
+
+1599472687885::ButtonData - Username: TEST - 1; Button = 1
+
+1599472687953::Accelerometer - Username: TEST-1; X: -2.5578809; Y: 7.074888; Z: 6.7755103; Time: 1599472687950
+
+1599472687958::Gyroscope - Username: TEST-1; X rotation: 0.13374679; Y rotation: -0.36954778; Z rotation: -0.14197364; Time: 1599472687955
+
+1599472688082::Accelerometer - Username: TEST-1; X: -2.064507; Y: 7.110813; Z: 6.215076; Time: 1599472688077
+
+1599472688088::Gyroscope - Username: TEST-1; X rotation: 0.18967317; Y rotation: -0.7232156; Z rotation: 0.047643427; Time: 1599472688084
+
+1599472688241::Accelerometer - Username: TEST-1; X: -1.4370118; Y: 7.220984; Z: 6.5360084; Time: 1599472688236
+
+1599472688248::Gyroscope - Username: TEST-1; X rotation: 0.094332; Y rotation: -0.4425184; Z rotation: -0.07859041; Time: 1599472688243
+
+1599472688400::ButtonData - Username: TEST - 1; Button = 2
+
+1599472688476::Accelerometer - Username: TEST-1; X: -0.8334668; Y: 7.424561; Z: 6.7850904; Time: 1599472688474
+
+1599472688480::Gyroscope - Username: TEST-1; X rotation: 0.11350676; Y rotation: -0.49098796; Z rotation: -0.12705994; Time: 1599472688477
+
+1599472688558::Accelerometer - Username: TEST-1; X: -0.62510014; Y: 6.952742; Z: 6.928792; Time: 1599472688554
+
+1599472688562::Gyroscope - Username: TEST-1; X rotation: -0.09208928; Y rotation: -0.2752719; Z rotation: 0.16642042; Time: 1599472688559
+
+1599472688717::Accelerometer - Username: TEST-1; X: 0.021555176; Y: 7.3862405; Z: 6.71324; Time: 1599472688713
+
+1599472688723::Gyroscope - Username: TEST-1; X rotation: 0.2727638; Y rotation: -0.4094952; Z rotation: 0.082797155; Time: 1599472688718
+
+1599472688860::ButtonData - Username: TEST - 1; Button = 3
+
+1599472688924::Accelerometer - Username: TEST-1; X: 0.78556645; Y: 7.585027; Z: 6.10251; Time: 1599472688922
+
+1599472688927::Gyroscope - Username: TEST-1; X rotation: -0.004737594; Y rotation: 0.443249; Z rotation: -0.008282958; Time: 1599472688925
+
+1599472689034::Accelerometer - Username: TEST-1; X: -0.7831714; Y: 7.0030375; Z: 6.502478; Time: 1599472689030
+
+1599472689039::Gyroscope - Username: TEST-1; X rotation: -0.43989813; Y rotation: 1.6129094; Z rotation: -0.23997797; Time: 1599472689035
+
+1599472689194::Accelerometer - Username: TEST-1; X: -2.9506643; Y: 6.734795; Z: 6.9719024; Time: 1599472689190
+
+1599472689200::Gyroscope - Username: TEST-1; X rotation: -0.13469985; Y rotation: 0.9934581; Z rotation: -0.25489166; Time: 1599472689195
+
+1599472689351::Accelerometer - Username: TEST-1; X: -3.3410523; Y: 6.7395854; Z: 6.6605496; Time: 1599472689348
+
+1599472689355::Gyroscope - Username: TEST-1; X rotation: 0.01283927; Y rotation: 0.0150126815; Z rotation: -0.15582208; Time: 1599472689352
+
+1599472689393::ButtonData - Username: TEST - 1; Button = 4
+
+1599472689509::Accelerometer - Username: TEST-1; X: -3.2021413; Y: 6.6413894; Z: 6.4114676; Time: 1599472689506
+
+1599472689512::Gyroscope - Username: TEST-1; X rotation: -0.0659903; Y rotation: -0.41375628; Z rotation: 0.14724566; Time: 1599472689510
+
+1599472689670::Accelerometer - Username: TEST-1; X: -2.806963; Y: 6.7898808; Z: 6.2989016; Time: 1599472689666
+
+1599472689678::Gyroscope - Username: TEST-1; X rotation: -0.37278646; Y rotation: 0.23019609; Z rotation: -0.0865799; Time: 1599472689673
+
+1599472689828::Accelerometer - Username: TEST-1; X: -2.1746778; Y: 5.9180937; Z: 5.118157; Time: 1599472689824
+
+1599472689833::Gyroscope - Username: TEST-1; X rotation: -1.6937144; Y rotation: -0.50909746; Z rotation: -1.0410569; Time: 1599472689829
+
+1599472689988::Accelerometer - Username: TEST-1; X: -2.9674294; Y: 1.9064356; Z: 9.422008; Time: 1599472689984
+
+1599472689994::Gyroscope - Username: TEST-1; X rotation: -0.8420355; Y rotation: -1.1951277; Z rotation: -1.3201562; Time: 1599472689989
+
+1599472690146::Accelerometer - Username: TEST-1; X: -1.7292042; Y: -2.069297; Z: 12.643309; Time: 1599472690142
+
+1599472690152::Gyroscope - Username: TEST-1; X rotation: -0.2657274; Y rotation: -0.78340304; Z rotation: -0.363016; Time: 1599472690148
+
+1599472690305::Accelerometer - Username: TEST-1; X: -1.21188; Y: 0.69216067; Z: 9.067544; Time: 1599472690302
+
+1599472690310::Gyroscope - Username: TEST-1; X rotation: -0.7019532; Y rotation: -0.9245506; Z rotation: 0.94459605; Time: 1599472690306
+
+1599472690463::Accelerometer - Username: TEST-1; X: -0.74006104; Y: -2.315984; Z: 12.164305; Time: 1599472690460
+
+1599472690467::Gyroscope - Username: TEST-1; X rotation: 4.3703036; Y rotation: 0.16201916; Z rotation: 0.9270192; Time: 1599472690464
+
+1599472690622::Accelerometer - Username: TEST-1; X: -0.023950197; Y: 3.8895118; Z: 8.974138; Time: 1599472690619
+
+1599472690626::Gyroscope - Username: TEST-1; X rotation: 1.91913; Y rotation: 1.025416; Z rotation: 0.79865485; Time: 1599472690623
+
+1599472690781::Accelerometer - Username: TEST-1; X: 0.09340577; Y: 6.4833183; Z: 6.423443; Time: 1599472690778
+
+1599472690786::Gyroscope - Username: TEST-1; X rotation: 1.379041; Y rotation: -0.058490567; Z rotation: -0.034914568; Time: 1599472690782
+
+1599472690948::Accelerometer - Username: TEST-1; X: -0.6658155; Y: 7.29523; Z: 5.822293; Time: 1599472690939
+
+1599472690963::Gyroscope - Username: TEST-1; X rotation: 0.5470694; Y rotation: -0.048903186; Z rotation: 0.11102666; Time: 1599472690952
+
+1599472691102::Accelerometer - Username: TEST-1; X: -0.4406836; Y: 7.807764; Z: 5.951624; Time: 1599472691096
+
+1599472691109::Gyroscope - Username: TEST-1; X rotation: 0.28394908; Y rotation: 0.0384485; Z rotation: 0.08759084; Time: 1599472691103
+
+1599472691269::Accelerometer - Username: TEST-1; X: -0.19878663; Y: 8.085587; Z: 5.5253105; Time: 1599472691257
+
+1599472691278::Gyroscope - Username: TEST-1; X rotation: 0.11776782; Y rotation: 0.046437982; Z rotation: 0.0769382; Time: 1599472691272
+
+1599472691420::Accelerometer - Username: TEST-1; X: -0.2562671; Y: 8.155042; Z: 5.47262; Time: 1599472691414
+
+1599472691428::Gyroscope - Username: TEST-1; X rotation: -0.038826056; Y rotation: 0.09810331; Z rotation: -0.01627244; Time: 1599472691422
+
+1599472691578::Accelerometer - Username: TEST-1; X: -0.48618898; Y: 8.037686; Z: 5.719307; Time: 1599472691573
+
+1599472691583::Gyroscope - Username: TEST-1; X rotation: -0.034564998; Y rotation: 0.031524282; Z rotation: -0.03278404; Time: 1599472691579
+
+1599472691667::ButtonData - Username: TEST - 1; Button = E
+
+1599472691676::TouchData - Username: TEST-1; time_ms: 1599472687771; event: Down; X: 308.0; Y: 1083.0; Pressure: 0.38750002; Area: 0.11764706; TouchID: 1
+
+1599472691681::TouchData - Username: TEST-1; time_ms: 1599472687787; event: Move; X: 308.0; Y: 1083.0; Pressure: 0.625; Area: 0.11764706; TouchID: 1
+
+1599472691687::TouchData - Username: TEST-1; time_ms: 1599472687788; event: Move; X: 308.0; Y: 1083.0; Pressure: 0.625; Area: 0.11764706; TouchID: 1
+
+1599472691691::TouchData - Username: TEST-1; time_ms: 1599472687804; event: Move; X: 308.0; Y: 1083.0; Pressure: 0.725; Area: 0.11764706; TouchID: 1
+
+1599472691693::TouchData - Username: TEST-1; time_ms: 1599472687804; event: Move; X: 307.0; Y: 1083.0; Pressure: 0.8; Area: 0.11764706; TouchID: 1
+
+1599472691696::TouchData - Username: TEST-1; time_ms: 1599472687805; event: Move; X: 306.52203; Y: 1083.0; Pressure: 0.8; Area: 0.11764706; TouchID: 1
+
+1599472691699::TouchData - Username: TEST-1; time_ms: 1599472687820; event: Move; X: 306.0; Y: 1083.0; Pressure: 0.83750004; Area: 0.14705883; TouchID: 1
+
+1599472691703::TouchData - Username: TEST-1; time_ms: 1599472687821; event: Move; X: 305.0; Y: 1083.0; Pressure: 0.85; Area: 0.14705883; TouchID: 1
+
+1599472691706::TouchData - Username: TEST-1; time_ms: 1599472687821; event: Move; X: 304.5592; Y: 1082.5592; Pressure: 0.85; Area: 0.14705883; TouchID: 1
+
+1599472691709::TouchData - Username: TEST-1; time_ms: 1599472687837; event: Move; X: 304.0; Y: 1082.0; Pressure: 0.875; Area: 0.14705883; TouchID: 1
+
+1599472691713::TouchData - Username: TEST-1; time_ms: 1599472687837; event: Move; X: 303.0; Y: 1081.0; Pressure: 0.875; Area: 0.14705883; TouchID: 1
+
+1599472691715::TouchData - Username: TEST-1; time_ms: 1599472687838; event: Move; X: 302.58633; Y: 1080.5863; Pressure: 0.875; Area: 0.14705883; TouchID: 1
+
+1599472691719::TouchData - Username: TEST-1; time_ms: 1599472687854; event: Move; X: 302.0; Y: 1080.0; Pressure: 0.8625; Area: 0.14705883; TouchID: 1
+
+1599472691722::TouchData - Username: TEST-1; time_ms: 1599472687855; event: Move; X: 301.0; Y: 1079.0; Pressure: 0.825; Area: 0.11764706; TouchID: 1
+
+1599472691725::TouchData - Username: TEST-1; time_ms: 1599472687855; event: Move; X: 300.6101; Y: 1078.6101; Pressure: 0.825; Area: 0.11764706; TouchID: 1
+
+1599472691728::TouchData - Username: TEST-1; time_ms: 1599472687870; event: Move; X: 301.0; Y: 1078.0; Pressure: 0.725; Area: 0.11764706; TouchID: 1
+
+1599472691731::TouchData - Username: TEST-1; time_ms: 1599472687870; event: Move; X: 302.0; Y: 1075.0; Pressure: 0.35; Area: 0.11764706; TouchID: 1
+
+1599472691734::TouchData - Username: TEST-1; time_ms: 1599472687872; event: Up; X: 302.0; Y: 1075.0; Pressure: 0.35; Area: 0.11764706; TouchID: 1
+
+1599472691737::TouchData - Username: TEST-1; time_ms: 1599472688297; event: Down; X: 721.0; Y: 1044.0; Pressure: 0.6; Area: 0.10294118; TouchID: 2
+
+1599472691739::TouchData - Username: TEST-1; time_ms: 1599472688321; event: Move; X: 721.0; Y: 1044.0; Pressure: 0.65000004; Area: 0.11764706; TouchID: 2
+
+1599472691742::TouchData - Username: TEST-1; time_ms: 1599472688321; event: Move; X: 721.0; Y: 1044.0; Pressure: 0.65000004; Area: 0.11764706; TouchID: 2
+
+1599472691744::TouchData - Username: TEST-1; time_ms: 1599472688337; event: Move; X: 721.0; Y: 1044.0; Pressure: 0.675; Area: 0.11764706; TouchID: 2
+
+1599472691747::TouchData - Username: TEST-1; time_ms: 1599472688338; event: Move; X: 721.0; Y: 1044.0; Pressure: 0.6875; Area: 0.11764706; TouchID: 2
+
+1599472691750::TouchData - Username: TEST-1; time_ms: 1599472688338; event: Move; X: 721.0; Y: 1044.0; Pressure: 0.6875; Area: 0.11764706; TouchID: 2
+
+1599472691752::TouchData - Username: TEST-1; time_ms: 1599472688354; event: Move; X: 721.0; Y: 1044.0; Pressure: 0.7; Area: 0.11764706; TouchID: 2
+
+1599472691755::TouchData - Username: TEST-1; time_ms: 1599472688354; event: Move; X: 721.0; Y: 1044.0; Pressure: 0.7; Area: 0.11764706; TouchID: 2
+
+1599472691757::TouchData - Username: TEST-1; time_ms: 1599472688371; event: Move; X: 721.0; Y: 1044.0; Pressure: 0.6875; Area: 0.11764706; TouchID: 2
+
+1599472691760::TouchData - Username: TEST-1; time_ms: 1599472688371; event: Move; X: 721.0; Y: 1044.0; Pressure: 0.6875; Area: 0.11764706; TouchID: 2
+
+1599472691763::TouchData - Username: TEST-1; time_ms: 1599472688387; event: Move; X: 721.0; Y: 1044.0; Pressure: 0.6375; Area: 0.11764706; TouchID: 2
+
+1599472691766::TouchData - Username: TEST-1; time_ms: 1599472688388; event: Move; X: 722.0; Y: 1043.0; Pressure: 0.425; Area: 0.11764706; TouchID: 2
+
+1599472691769::TouchData - Username: TEST-1; time_ms: 1599472688388; event: Move; X: 722.33905; Y: 1042.6609; Pressure: 0.425; Area: 0.11764706; TouchID: 2
+
+1599472691771::TouchData - Username: TEST-1; time_ms: 1599472688389; event: Up; X: 722.33905; Y: 1042.6609; Pressure: 0.425; Area: 0.11764706; TouchID: 2
+
+1599472691773::TouchData - Username: TEST-1; time_ms: 1599472688730; event: Down; X: 1230.0; Y: 1056.0; Pressure: 0.5625; Area: 0.11764706; TouchID: 3
+
+1599472691776::TouchData - Username: TEST-1; time_ms: 1599472688753; event: Move; X: 1230.0; Y: 1056.0; Pressure: 0.6375; Area: 0.11764706; TouchID: 3
+
+1599472691778::TouchData - Username: TEST-1; time_ms: 1599472688754; event: Move; X: 1230.0; Y: 1056.0; Pressure: 0.6375; Area: 0.11764706; TouchID: 3
+
+1599472691780::TouchData - Username: TEST-1; time_ms: 1599472688770; event: Move; X: 1230.0; Y: 1056.0; Pressure: 0.6875; Area: 0.11764706; TouchID: 3
+
+1599472691783::TouchData - Username: TEST-1; time_ms: 1599472688770; event: Move; X: 1230.0; Y: 1056.0; Pressure: 0.71250004; Area: 0.11764706; TouchID: 3
+
+1599472691785::TouchData - Username: TEST-1; time_ms: 1599472688771; event: Move; X: 1230.0; Y: 1056.0; Pressure: 0.71250004; Area: 0.11764706; TouchID: 3
+
+1599472691787::TouchData - Username: TEST-1; time_ms: 1599472688787; event: Move; X: 1230.0; Y: 1056.0; Pressure: 0.725; Area: 0.11764706; TouchID: 3
+
+1599472691789::TouchData - Username: TEST-1; time_ms: 1599472688787; event: Move; X: 1230.0; Y: 1056.0; Pressure: 0.725; Area: 0.11764706; TouchID: 3
+
+1599472691792::TouchData - Username: TEST-1; time_ms: 1599472688803; event: Move; X: 1230.0; Y: 1056.0; Pressure: 0.7375; Area: 0.11764706; TouchID: 3
+
+1599472691794::TouchData - Username: TEST-1; time_ms: 1599472688804; event: Move; X: 1230.0; Y: 1056.0; Pressure: 0.7375; Area: 0.11764706; TouchID: 3
+
+1599472691797::TouchData - Username: TEST-1; time_ms: 1599472688820; event: Move; X: 1229.0; Y: 1056.0; Pressure: 0.71250004; Area: 0.11764706; TouchID: 3
+
+1599472691799::TouchData - Username: TEST-1; time_ms: 1599472688820; event: Move; X: 1228.0; Y: 1056.0; Pressure: 0.7; Area: 0.11764706; TouchID: 3
+
+1599472691801::TouchData - Username: TEST-1; time_ms: 1599472688820; event: Move; X: 1227.8914; Y: 1056.0; Pressure: 0.7; Area: 0.11764706; TouchID: 3
+
+1599472691803::TouchData - Username: TEST-1; time_ms: 1599472688837; event: Move; X: 1227.0; Y: 1056.0; Pressure: 0.675; Area: 0.11764706; TouchID: 3
+
+1599472691805::TouchData - Username: TEST-1; time_ms: 1599472688837; event: Move; X: 1226.0; Y: 1056.0; Pressure: 0.625; Area: 0.11764706; TouchID: 3
+
+1599472691808::TouchData - Username: TEST-1; time_ms: 1599472688837; event: Move; X: 1225.9084; Y: 1056.0; Pressure: 0.625; Area: 0.11764706; TouchID: 3
+
+1599472691810::TouchData - Username: TEST-1; time_ms: 1599472688847; event: Move; X: 1224.0; Y: 1056.0; Pressure: 0.45000002; Area: 0.11764706; TouchID: 3
+
+1599472691812::TouchData - Username: TEST-1; time_ms: 1599472688848; event: Up; X: 1224.0; Y: 1056.0; Pressure: 0.45000002; Area: 0.11764706; TouchID: 3
+
+1599472691815::TouchData - Username: TEST-1; time_ms: 1599472689274; event: Down; X: 327.0; Y: 1412.0; Pressure: 0.58750004; Area: 0.11764706; TouchID: 4
+
+1599472691817::TouchData - Username: TEST-1; time_ms: 1599472689304; event: Move; X: 327.0; Y: 1412.0; Pressure: 0.71250004; Area: 0.11764706; TouchID: 4
+
+1599472691819::TouchData - Username: TEST-1; time_ms: 1599472689304; event: Move; X: 327.0; Y: 1412.0; Pressure: 0.71250004; Area: 0.11764706; TouchID: 4
+
+1599472691821::TouchData - Username: TEST-1; time_ms: 1599472689320; event: Move; X: 327.0; Y: 1412.0; Pressure: 0.7875; Area: 0.13235295; TouchID: 4
+
+1599472691824::TouchData - Username: TEST-1; time_ms: 1599472689320; event: Move; X: 327.0; Y: 1412.0; Pressure: 0.83750004; Area: 0.13235295; TouchID: 4
+
+1599472691826::TouchData - Username: TEST-1; time_ms: 1599472689321; event: Move; X: 327.0; Y: 1412.0; Pressure: 0.83750004; Area: 0.13235295; TouchID: 4
+
+1599472691829::TouchData - Username: TEST-1; time_ms: 1599472689337; event: Move; X: 327.0; Y: 1412.0; Pressure: 0.8625; Area: 0.14705883; TouchID: 4
+
+1599472691832::TouchData - Username: TEST-1; time_ms: 1599472689337; event: Move; X: 327.0; Y: 1412.0; Pressure: 0.8875; Area: 0.14705883; TouchID: 4
+
+1599472691835::TouchData - Username: TEST-1; time_ms: 1599472689337; event: Move; X: 327.0; Y: 1412.0; Pressure: 0.8875; Area: 0.14705883; TouchID: 4
+
+1599472691837::TouchData - Username: TEST-1; time_ms: 1599472689370; event: Move; X: 327.0; Y: 1412.0; Pressure: 0.875; Area: 0.14705883; TouchID: 4
+
+1599472691841::TouchData - Username: TEST-1; time_ms: 1599472689370; event: Move; X: 327.0; Y: 1412.0; Pressure: 0.875; Area: 0.14705883; TouchID: 4
+
+1599472691843::TouchData - Username: TEST-1; time_ms: 1599472689382; event: Move; X: 327.0; Y: 1412.0; Pressure: 0.83750004; Area: 0.13235295; TouchID: 4
+
+1599472691846::TouchData - Username: TEST-1; time_ms: 1599472689382; event: Move; X: 327.0; Y: 1412.0; Pressure: 0.7625; Area: 0.13235295; TouchID: 4
+
+1599472691848::TouchData - Username: TEST-1; time_ms: 1599472689383; event: Up; X: 327.0; Y: 1412.0; Pressure: 0.7625; Area: 0.13235295; TouchID: 4
+
+1599472691850::TouchData - Username: TEST-1; time_ms: 1599472691508; event: Down; X: 1113.0; Y: 1955.0; Pressure: 0.5625; Area: 0.11764706; TouchID: 5
+
+1599472691852::TouchData - Username: TEST-1; time_ms: 1599472691538; event: Move; X: 1113.0; Y: 1955.0; Pressure: 0.6; Area: 0.11764706; TouchID: 5
+
+1599472691854::TouchData - Username: TEST-1; time_ms: 1599472691538; event: Move; X: 1113.0; Y: 1955.0; Pressure: 0.6125; Area: 0.11764706; TouchID: 5
+
+1599472691856::TouchData - Username: TEST-1; time_ms: 1599472691538; event: Move; X: 1113.0; Y: 1955.0; Pressure: 0.6125; Area: 0.11764706; TouchID: 5
+
+1599472691858::TouchData - Username: TEST-1; time_ms: 1599472691554; event: Move; X: 1113.0; Y: 1955.0; Pressure: 0.6375; Area: 0.11764706; TouchID: 5
+
+1599472691860::TouchData - Username: TEST-1; time_ms: 1599472691554; event: Move; X: 1113.0; Y: 1955.0; Pressure: 0.65000004; Area: 0.11764706; TouchID: 5
+
+1599472691863::TouchData - Username: TEST-1; time_ms: 1599472691554; event: Move; X: 1113.0; Y: 1955.0; Pressure: 0.65000004; Area: 0.11764706; TouchID: 5
+
+1599472691865::TouchData - Username: TEST-1; time_ms: 1599472691571; event: Move; X: 1113.0; Y: 1955.0; Pressure: 0.6625; Area: 0.11764706; TouchID: 5
+
+1599472691867::TouchData - Username: TEST-1; time_ms: 1599472691571; event: Move; X: 1113.0; Y: 1955.0; Pressure: 0.675; Area: 0.11764706; TouchID: 5
+
+1599472691869::TouchData - Username: TEST-1; time_ms: 1599472691571; event: Move; X: 1113.0; Y: 1955.0; Pressure: 0.675; Area: 0.11764706; TouchID: 5
+
+1599472691871::TouchData - Username: TEST-1; time_ms: 1599472691587; event: Move; X: 1113.0; Y: 1955.0; Pressure: 0.6875; Area: 0.11764706; TouchID: 5
+
+1599472691873::TouchData - Username: TEST-1; time_ms: 1599472691588; event: Move; X: 1113.0; Y: 1955.0; Pressure: 0.6875; Area: 0.11764706; TouchID: 5
+
+1599472691876::TouchData - Username: TEST-1; time_ms: 1599472691637; event: Move; X: 1113.0; Y: 1955.0; Pressure: 0.6625; Area: 0.11764706; TouchID: 5
+
+1599472691879::TouchData - Username: TEST-1; time_ms: 1599472691654; event: Move; X: 1113.0; Y: 1955.0; Pressure: 0.6375; Area: 0.11764706; TouchID: 5
+
+1599472691881::TouchData - Username: TEST-1; time_ms: 1599472691654; event: Move; X: 1113.0; Y: 1955.0; Pressure: 0.58750004; Area: 0.11764706; TouchID: 5
+
+1599472691883::TouchData - Username: TEST-1; time_ms: 1599472691654; event: Move; X: 1113.0; Y: 1955.0; Pressure: 0.58750004; Area: 0.11764706; TouchID: 5
+
+1599472691886::TouchData - Username: TEST-1; time_ms: 1599472691656; event: Up; X: 1113.0; Y: 1955.0; Pressure: 0.58750004; Area: 0.11764706; TouchID: 5
+
+1599472692113::PIN ENTRY FINISHED
+
+1599472692172::Accelerometer - Username: TEST-2; X: -0.45744875; Y: 8.056846; Z: 5.49657; Time: 1599472692170
+
+1599472692174::Gyroscope - Username: TEST-2; X rotation: -0.11179667; Y rotation: -0.1580928; Z rotation: -0.04024089; Time: 1599472692173
+
+1599472692177::Accelerometer - Username: TEST-2; X: -0.2945874; Y: 7.9802055; Z: 5.647456; Time: 1599472692175
+
+1599472692179::Gyroscope - Username: TEST-2; X rotation: -0.3040769; Y rotation: 0.16681287; Z rotation: -0.1989653; Time: 1599472692177
+
+1599472692182::Accelerometer - Username: TEST-2; X: -0.91729254; Y: 7.5467067; Z: 6.964717; Time: 1599472692180
+
+1599472692184::Gyroscope - Username: TEST-2; X rotation: 0.11723518; Y rotation: -0.07287163; Z rotation: -0.0072176927; Time: 1599472692182
+
+1599472692212::Accelerometer - Username: TEST-2; X: -0.6346802; Y: 7.965835; Z: 5.4414845; Time: 1599472692209
+
+1599472692215::Gyroscope - Username: TEST-2; X rotation: 0.279688; Y rotation: -0.037185274; Z rotation: 2.3915822E-4; Time: 1599472692213
+
+1599472692369::Accelerometer - Username: TEST-2; X: -0.8286768; Y: 7.999366; Z: 6.09293; Time: 1599472692366
+
+1599472692372::Gyroscope - Username: TEST-2; X rotation: 0.01283927; Y rotation: -0.070208475; Z rotation: 0.17547517; Time: 1599472692370
+
+1599472692528::Accelerometer - Username: TEST-2; X: -0.34727785; Y: 8.133487; Z: 5.345684; Time: 1599472692526
+
+1599472692532::Gyroscope - Username: TEST-2; X rotation: -0.014246815; Y rotation: 0.08238061; Z rotation: 0.17801578; Time: 1599472692529
+
+1599472692687::Accelerometer - Username: TEST-2; X: 0.086220704; Y: 8.044871; Z: 5.606741; Time: 1599472692684
+
+1599472692690::Gyroscope - Username: TEST-2; X rotation: 0.10826396; Y rotation: -0.08486918; Z rotation: 0.059770778; Time: 1599472692688
+
+1599472692850::Accelerometer - Username: TEST-2; X: 0.22513184; Y: 8.3250885; Z: 5.7145166; Time: 1599472692846
+
+1599472692858::Gyroscope - Username: TEST-2; X rotation: 0.012938883; Y rotation: 0.03815902; Z rotation: -0.030246025; Time: 1599472692855
+

@@ -1,0 +1,118 @@
+1597763747684::Accelerometer - Username: test-1; X: -0.69695073; Y: 8.066426; Z: 5.343289; Time: 47679
+
+1597763747687::Gyroscope - Username: test-1; X rotation: -0.10470836; Y rotation: -0.049803324; Z rotation: 0.052099325; Time: 47685
+
+1597763747691::Gyroscope - Username: test-1; X rotation: -0.18673372; Y rotation: 0.03009151; Z rotation: 0.047305636; Time: 47688
+
+1597763747839::Accelerometer - Username: test-1; X: -1.0705738; Y: 8.011341; Z: 5.9540186; Time: 47835
+
+1597763747845::Gyroscope - Username: test-1; X rotation: 0.26973212; Y rotation: 0.41252145; Z rotation: 0.067013025; Time: 47841
+
+1597763748000::Accelerometer - Username: test-1; X: -1.2717555; Y: 8.188572; Z: 5.5061502; Time: 47994
+
+1597763748005::Gyroscope - Username: test-1; X rotation: 0.24842682; Y rotation: 0.5312984; Z rotation: 0.082991995; Time: 48002
+
+1597763748150::PIN ENTRY STARTED
+
+1597763748155::ButtonData - Username: test - 1; Button = 1
+
+1597763748215::Accelerometer - Username: test-1; X: -1.4441968; Y: 8.447234; Z: 4.4499464; Time: 48212
+
+1597763748219::Gyroscope - Username: test-1; X rotation: -0.1467863; Y rotation: -0.048205428; Z rotation: -0.015544966; Time: 48216
+
+1597763748317::Accelerometer - Username: test-1; X: -1.1591895; Y: 8.229287; Z: 5.599556; Time: 48312
+
+1597763748322::Gyroscope - Username: test-1; X rotation: -0.10950205; Y rotation: -0.2756394; Z rotation: -0.038980786; Time: 48319
+
+1597763748476::Accelerometer - Username: test-1; X: -1.1615845; Y: 8.056846; Z: 5.7001467; Time: 48471
+
+1597763748482::Gyroscope - Username: test-1; X rotation: 0.02631917; Y rotation: -0.08815285; Z rotation: -0.03045867; Time: 48477
+
+1597763748635::Accelerometer - Username: test-1; X: -1.1160791; Y: 8.068821; Z: 5.6450615; Time: 48630
+
+1597763748641::Gyroscope - Username: test-1; X rotation: 0.08490872; Y rotation: 0.040744152; Z rotation: -0.017142864; Time: 48637
+
+1597763748787::ButtonData - Username: test - 1; Button = 2
+
+1597763748854::Accelerometer - Username: test-1; X: -1.0801538; Y: 8.183782; Z: 5.6977515; Time: 48851
+
+1597763748857::Gyroscope - Username: test-1; X rotation: 0.14030248; Y rotation: -0.09028338; Z rotation: -0.009686012; Time: 48855
+
+1597763748952::Accelerometer - Username: test-1; X: -1.1208692; Y: 8.150251; Z: 5.5803957; Time: 48948
+
+1597763748956::Gyroscope - Username: test-1; X rotation: 0.040167607; Y rotation: -0.03648752; Z rotation: -0.003827058; Time: 48953
+
+1597763749110::Accelerometer - Username: test-1; X: -1.0585986; Y: 8.123906; Z: 5.4342995; Time: 49106
+
+1597763749114::Gyroscope - Username: test-1; X rotation: 0.09396346; Y rotation: 0.2149149; Z rotation: -0.015012335; Time: 49111
+
+1597763749271::Accelerometer - Username: test-1; X: -1.5208374; Y: 8.284373; Z: 5.3145485; Time: 49266
+
+1597763749276::Gyroscope - Username: test-1; X rotation: 0.18717411; Y rotation: 0.6697828; Z rotation: -0.003827058; Time: 49272
+
+1597763749367::ButtonData - Username: test - 1; Button = 1
+
+1597763749429::Accelerometer - Username: test-1; X: -1.5783179; Y: 8.382568; Z: 4.744534; Time: 49426
+
+1597763749432::Gyroscope - Username: test-1; X rotation: -0.28953174; Y rotation: -0.96380025; Z rotation: -0.091178745; Time: 49430
+
+1597763749586::Accelerometer - Username: test-1; X: -1.0514137; Y: 8.035291; Z: 6.08814; Time: 49583
+
+1597763749590::Gyroscope - Username: test-1; X rotation: -0.075413585; Y rotation: -0.3416858; Z rotation: -0.05868818; Time: 49587
+
+1597763749746::Accelerometer - Username: test-1; X: -1.0106983; Y: 7.999366; Z: 5.688172; Time: 49742
+
+1597763749753::Gyroscope - Username: test-1; X rotation: 0.04815709; Y rotation: 0.014112541; Z rotation: -0.02832814; Time: 49749
+
+1597763749905::Accelerometer - Username: test-1; X: -1.2310401; Y: 8.090376; Z: 5.230723; Time: 49901
+
+1597763749911::Gyroscope - Username: test-1; X rotation: -0.13666628; Y rotation: 0.14247692; Z rotation: 0.04517511; Time: 49906
+
+1597763749951::ButtonData - Username: test - 1; Button = 2
+
+1597763750062::Accelerometer - Username: test-1; X: -0.98435307; Y: 8.104747; Z: 5.3863993; Time: 50060
+
+1597763750067::Gyroscope - Username: test-1; X rotation: -0.4115045; Y rotation: -0.42903748; Z rotation: -0.15615988; Time: 50063
+
+1597763750222::Accelerometer - Username: test-1; X: -0.54366946; Y: 7.062913; Z: 6.9024467; Time: 50219
+
+1597763750226::Gyroscope - Username: test-1; X rotation: -0.72202915; Y rotation: -0.5520755; Z rotation: -0.092244014; Time: 50223
+
+1597763750381::Accelerometer - Username: test-1; X: -0.26105714; Y: 6.8761015; Z: 7.206614; Time: 50378
+
+1597763750384::Gyroscope - Username: test-1; X rotation: -0.17395054; Y rotation: -0.5009428; Z rotation: -0.2770674; Time: 50382
+
+1597763750541::Accelerometer - Username: test-1; X: -0.42152345; Y: 6.72761; Z: 7.2640944; Time: 50537
+
+1597763750549::Gyroscope - Username: test-1; X rotation: -0.06795674; Y rotation: 0.23728545; Z rotation: -0.0032944258; Time: 50543
+
+1597763750603::ButtonData - Username: test - 1; Button = 9
+
+1597763750699::Accelerometer - Username: test-1; X: -0.4143384; Y: 6.725215; Z: 7.1347637; Time: 50695
+
+1597763750704::Gyroscope - Username: test-1; X rotation: -0.0056387647; Y rotation: -0.040748578; Z rotation: -0.09171138; Time: 50701
+
+1597763750859::Accelerometer - Username: test-1; X: -0.7185059; Y: 6.248606; Z: 8.004155; Time: 50854
+
+1597763750864::Gyroscope - Username: test-1; X rotation: -0.39392766; Y rotation: 0.026895715; Z rotation: 0.19271423; Time: 50861
+
+1597763751017::Accelerometer - Username: test-1; X: -0.87178713; Y: 6.0091043; Z: 6.701265; Time: 51013
+
+1597763751022::Gyroscope - Username: test-1; X rotation: -1.0501305; Y rotation: -0.099870756; Z rotation: -0.04483974; Time: 51018
+
+1597763751176::Accelerometer - Username: test-1; X: -0.14130616; Y: 5.0678616; Z: 8.705896; Time: 51172
+
+1597763751181::Gyroscope - Username: test-1; X rotation: -0.6522543; Y rotation: -0.37950268; Z rotation: 0.064882495; Time: 51177
+
+1597763751336::Accelerometer - Username: test-1; X: 0.92208254; Y: 3.7577858; Z: 9.522598; Time: 51331
+
+1597763751341::Gyroscope - Username: test-1; X rotation: -0.54146683; Y rotation: -0.23995303; Z rotation: 0.4185503; Time: 51337
+
+1597763751494::Accelerometer - Username: test-1; X: -0.1460962; Y: 4.399651; Z: 8.080796; Time: 51490
+
+1597763751500::Gyroscope - Username: test-1; X rotation: -0.055706196; Y rotation: 0.24261177; Z rotation: 0.025467714; Time: 51496
+
+1597763751652::Accelerometer - Username: test-1; X: -0.34488282; Y: 4.30385; Z: 8.475974; Time: 51649
+
+1597763751658::Gyroscope - Username: test-1; X rotation: 0.012163099; Y rotation: 0.032574672; Z rotation: 0.020093393; Time: 51653
+
