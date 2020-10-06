@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "primal-seeker-282808",
+  "private_key_id": "9039d1b028a529d8f5fcdbde6aae8cae271c494d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDN0anesor1ne9y\nA175XjgaGvpJV0tm0RDdtjaP7QgpExYU9BLJgOoKTupwv/F0LJCf8F9EKschW1/x\nyVDKpMFHzLncvI7yvL5thL2FXeihegRtkqrpfh/haXrAmz8oY03x29/u2Xllo8nK\ncJl3lk0uBiurD/EQBO72JzqgcvT2vif179iOgn9HaQGwSTtYTyVaGhMkQwIBUqCQ\n/bczTeambOTx+vdf1kWw1VObPfijzht0+kfr1qkgAq3obxZ6kb7EqIjR1i+hX3hZ\nOozy9/bAMahm7l0gkcVhErRtj+9TOlihp31UnTshqjQ8iviWMog31qex4HPpVs81\nq1Uf007jAgMBAAECggEACftptDHPmIL86ngsYobFzMpTKjxwHT/1g/NC6S8TTr6s\nuv5tbNVyRGa4axh8EujYaNFlJW63sq/2UskzQGjGMP/GYeTJQA+UYsZl1LKNxksf\nLNtIq8Ngs3OErxO4d/J9BMZnsXNdtma/sjBM2SZyftFwy76dr+u1VT3o04BPzimr\nh3tUDVV+xJx/7h/rcNpF4GRKNssdGsj1bJ3iFhzUwMtlDofvyYaPVqMsxCP6fup9\nsC99p6hbaSrzbgsv0QjCkjuVr8Qf7Z1RhKXOm4E62oKGblRVOCAyahOzINQgiVLz\nFA5cNjfwdy+SsjT92OdhxJKE1WofZiB8FaiXDQsqpQKBgQDwUXqbz7mDeJ38rcSR\nb1fvhFdWuQGaS2mIxdA50ENompMu/TwEfeqkwu6gCHgNS54uH3i8pIcZleP3eFHX\nEAjR9TstRyBOYYL9ioxQ3aaZVeCSRLcST4N/71Repfhng6rWWJBXLkhtdXgRoYZu\neI5vx+foiRVzAvY5rqN1NgP4rwKBgQDbP9+hIG/6OokX4v+avxEqlhRbHlpCoSqE\nCO2QZRn3kp/F/V1EWld78e1alxpGcevSN7tODip3S24JrXopxecRstzfj47h3+Bq\nYTLyKWK7oQ3hMIfzRZC0U9Ay3N/eCLSlcPaWvWoNK1OwqFUJN9azpMjmY2Pit5ed\n7rahziqyDQKBgA+2dBrN6SZEc6f6wJh1vD0n3QIJlKY++gZ8UJIHIPEs8iSnYA43\nIWlmaW3DP/42jIAdhKpo44BzwXUDw+4Y2UrJCvZ56Q3W6FalgWkkJOlvqQBHR+UF\nl+Z8gnqxxV0XScs7/SwGFaw6ewBEHGMKtN1wJ6SXmfRsJCc/WOaoAnh3AoGAV8Yp\nhDsVOUtH6S0ygUQu3iq5OYVcQ0J8X+GnIeCn1ap4lm4JcbztOyyuhk7p8PvYmg8/\nyE75h0rGYc92kdSt3jMKI+I4JItZL518JOCWq2EdymKAes8F0HuhZUtxwFUh5P3l\napGoLF+FILszV/5n0QGOgFWX/oLbixmvOfXst90CgYEArWGcgkyo25JhICkYYe0O\nLC3m3TR9MDT2goLd+Tlsc5egKMIY84FdAlKV4Yg76ExKbAo57MFSjpqva0tP6nQz\nEHN4bpg+f7jVYXBU1QrWyrc00dZ9qdcB4T52EJrrLcK9xPz2RiNFGfmhssBYngT4\nV2oa9Q95zShngLx+vn7bDFM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "svc-acc-thesisocr@primal-seeker-282808.iam.gserviceaccount.com",
+  "client_id": "114234111213106881320",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/svc-acc-thesisocr%40primal-seeker-282808.iam.gserviceaccount.com"
+}
